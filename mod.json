@@ -1,0 +1,7 @@
+{
+    "BaseDir": "Dawn",
+    "EntryPoint": "Dawn.Main",
+    "IsDevelopment": true,
+    "Name": "Dawn",
+    "Project": "Dawn.csproj"
+}
